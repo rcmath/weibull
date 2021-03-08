@@ -131,6 +131,7 @@ dmypy.json
 
 # Peronal 
 py380env/
+382env/
 *.csv
 *.xlsx
 *.xlsx
